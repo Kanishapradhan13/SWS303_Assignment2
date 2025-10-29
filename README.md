@@ -82,7 +82,7 @@ ElastAlert2 is like a robot that:
 
 ### Configure ElastAlert2
 
-![alt text](<assets/Screenshot from 2025-10-29 00-37-51.png>)
+![alt text](<assets/Screenshot from 2025-10-29 11-38-35.png>)
 
 ### Create Rules Directory
 
@@ -92,33 +92,39 @@ ElastAlert2 is like a robot that:
 
 #### Alert Rule 1: Brute Force Detection
 
-![alt text](<assets/Screenshot from 2025-10-29 00-42-11.png>)
+![alt text](<assets/Screenshot from 2025-10-29 11-43-00.png>)
 
 #### Alert Rule 2: New IP Detected
 
-![alt text](<assets/Screenshot from 2025-10-29 00-43-37.png>)
+![alt text](<assets/Screenshot from 2025-10-29 11-43-29.png>)
 
 #### Alert Rule 3: Suspicious Sudo Commands
 
-![alt text](<assets/Screenshot from 2025-10-29 00-48-07.png>)
+![alt text](<assets/Screenshot from 2025-10-29 11-43-53.png>)
 
 #### Alert Rule 4: Port Scanning Detection
 
-![alt text](<assets/Screenshot from 2025-10-29 00-50-07.png>)
-
+![alt text](<assets/Screenshot from 2025-10-29 11-44-14.png>)
 
 
 ### Create ElastAlert2 Index
 
 ![alt text](<assets/Screenshot from 2025-10-29 00-52-32.png>)
 
-### Test Rules
+### Run Elastalert
+
+![alt text](<assets/Screenshot from 2025-10-29 22-49-12.png>)
+
+### Generate Test Events on Ubuntu VM
+
+![alt text](<assets/Screenshot from 2025-10-29 23-21-40.png>)
+
+![alt text](<assets/Screenshot from 2025-10-29 23-23-18.png>)
 
 
+![alt text](<assets/Screenshot from 2025-10-29 23-34-19.png>)
 
-
-
-
+![alt text](<assets/Screenshot from 2025-10-29 23-39-26.png>)
 
 
 
